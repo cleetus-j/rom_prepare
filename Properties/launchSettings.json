@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "rom_prepare": {
+      "commandName": "Project",
+      "commandLineArgs": "0 inputs.txt",
+      "workingDirectory": "B:\\Gazdalkodj_okosan\\code\\"
+    }
+  }
+}
